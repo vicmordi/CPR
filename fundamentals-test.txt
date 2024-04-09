@@ -1,0 +1,52 @@
+*** Start of Indexing Strings Demo ***
+Type not empty string (q- to quit):
+hello guys
+Type the character position within the string: 
+2
+The character found at 2 position is 'l'
+Type not empty string (q- to quit):
+BeAlright       
+Type the character position within the string: 
+6
+The character found at 6 position is 'g'
+Type not empty string (q- to quit):
+lllllllll
+Type the character position within the string: 
+20
+Too big... Position reduced to max. available
+The character found at 8 position is 'l'
+Type not empty string (q- to quit):
+q
+*** End of Indexing Strings Demo ***
+Type not empty string (q- to quit):
+sjncsa/';';
+Type the character position within the string: 
+8
+The character found at 8 position is ';'
+Type not empty string (q- to quit):
+12345LAB
+Type the character position within the string: 
+2
+The character found at 2 position is '3'
+
+
+*** Start of Measuring Strings Demo ***
+Type a string (q - to quit):
+hello
+The length of 'hello' is 5 characters
+Type a string (q - to quit):
+ihaveacat
+The length of 'ihaveacat' is 9 characters
+Type a string (q - to quit):
+ilovemango
+The length of 'ilovemango' is 10 characters
+Type a string (q - to quit):
+0909898987766
+The length of '0909898987766' is 13 characters
+Type a string (q - to quit):
+mycatsnameisKenzo
+The length of 'mycatsnameisKenzo' is 17 characters
+Type a string (q - to quit):
+q
+*** End of Measuring Strings Demo ***
+
