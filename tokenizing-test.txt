@@ -1,27 +1,0 @@
-*** Start of Tokenizing Words Demo ***
-Type a few words separated by space (q - to quit): H E L L OWord #1 is 'H'Word #2 is 'E'Word #3 is 'L'Word #4 is 'L'Word #5 is 'O'Type a few words separated by space (q - to quit): i love codingWord #1 is 'i'Word #2 is 'love'Word #3 is 'coding'Type a few words separated by space (q - to quit): This,is,a,sentence Word #1 is 'This,is,a,sentence'Type a few words separated by space (q - to quit): q*** End of Tokenizing Words Demo ***Type a few words separated by space (q - to quit): 123 456 789Word #1 is '123'Word #2 is '456'Word #3 is '789'Type a few words separated by space (q - to quit): word1\tword2\nword3Word #1 is 'word1\tword2\nword3'*** Start of Tokenizing Phrases Demo ***
-Type a few phrases separated by comma (q - to quit): 
-hi, there
-Phrase #1 is 'hi'
-Phrase #2 is ' there'
-Type a few phrases separated by comma (q - to quit): 
-like, and subscribe, to my, channel
-Phrase #1 is 'like'
-Phrase #2 is ' and subscribe'
-Phrase #3 is ' to my'
-Phrase #4 is ' channel'
-Type a few phrases separated by comma (q - to quit): 
-how, are, you, 
-Phrase #1 is 'how'
-Phrase #2 is ' are'
-Phrase #3 is ' you'
-Phrase #4 is ' '
-Type a few phrases separated by comma (q - to quit): 
-my name is yyz
-Phrase #1 is 'my name is yyz'
-Type a few phrases separated by comma (q - to quit): 
-012
-Phrase #1 is '012'
-Type a few phrases separated by comma (q - to quit): 
-q
-*** End of Tokenizing phrases Demo ***
