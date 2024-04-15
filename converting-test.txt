@@ -1,0 +1,62 @@
+*** Start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit):
+5
+Converted number is 5
+Type an int numeric string (q - to quit):
+8910
+Converted number is 8910
+Type an int numeric string (q - to quit):
+apple
+Converted number is 0
+Type an int numeric string (q - to quit):
+I_LOVE_CPR
+Converted number is 0
+Type an int numeric string (q - to quit):
+200
+Converted number is 200
+Type an int numeric string (q - to quit):
+19 23
+Converted number is 19
+Type an int numeric string (q - to quit):
+
+
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit):
+5.32
+Converted number is 5.320000
+Type the double numeric string (q - to quit):
+600.99
+Converted number is 600.990000
+Type the double numeric string (q - to quit):
+12.222
+Converted number is 12.222000
+Type the double numeric string (q - to quit):
+lol
+Converted number is 0.000000
+Type the double numeric string (q - to quit):
+no way
+Converted number is 0.000000
+Type the double numeric string (q - to quit):
+99.9876
+Converted number is 99.987600
+
+
+*** Start of Converting Strings to long Demo ***
+Typing the long numeric string (q - to quit): 
+1234567890
+Printing the converted number: 1234567890
+Typing the long numeric string (q - to quit): 
+183484082488307
+Printing the converted number: 183484082488307
+Typing the long numeric string (q - to quit): 
+33483340840 
+Printing the converted number: 33483340840
+Typing the long numeric string (q - to quit): 
+2348932477729847.0
+Printing the converted number: 2348932477729847
+Typing the long numeric string (q - to quit): 
+llliubbhk
+Printing the converted number: 0
+Typing the long numeric string (q - to quit): 
+q
+*** End of Converting Strings to long Demo ***

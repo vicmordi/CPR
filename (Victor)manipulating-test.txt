@@ -1,0 +1,60 @@
+*** Start of Converting Strings Demo ***
+Type the 1st string (q - to quit):
+mynameis
+Type the 2nd string:
+Mordi
+Concatenated string is 'mynameisMordi'
+Type the 1st string (q - to quit):
+no
+Type the 2nd string:
+lmk
+Concatenated string is 'no lmk'
+Type the 1st string (q - to quit):
+CPR.   
+Type the 2nd string:
+PROJECT
+Concatenated string is 'CPR.   PROJECT'
+Type the 1st string (q - to quit):
+Iphone          
+Type the 2nd string:
+is my fav
+Concatenated string is 'Iphone is my fav'
+Type the 1st string (q - to quit):
+CP R
+Type the 2nd string:
+Cp r
+Concatenated string is 'CP RCp r'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+
+*** Start of Comparing Strings Demo ***
+Type the 1st string to compare (q - to quit): 
+icanfly
+Type the 2nd string to compare: 
+icantfly
+'icanfly' string is less than 'icantfly'
+Type the 1st string to compare (q - to quit): 
+superman or spiderman
+Type the 2nd string to compare: 
+superman or spiderman
+'superman or spiderman' string is equal to 'superman or spiderman'
+Type the 1st string to compare (q - to quit): 
+cpr is fun
+Type the 2nd string to compare: 
+cpr is hard
+'cpr is fun' string is less than 'cpr is hard'
+Type the 1st string to compare (q - to quit): 
+i am learning c 
+Type the 2nd string to compare: 
+i am learnin  c
+'i am learning c ' string is greater than 'i am learnin  c'
+Type the 1st string to compare (q - to quit): 
+color
+Type the 2nd string to compare: 
+colour
+'color' string is less than 'colour'
+Type the 1st string to compare (q - to quit): 
+q
+*** End of Comparing strings Demo ***
